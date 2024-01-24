@@ -1,4 +1,4 @@
-# Benchmark BkA100
+# BDE WEBSITE
 
 This is the repository for the BDE's website.
 This repo contains the website and the games files, a PostreSQL database is required for scoreboard.
